@@ -1,0 +1,8 @@
+Инструменты которые будут изучены на курсе
+              1) "Postman"
+              2) "Jmeter"
+              3) "CheckLists"
+              4)  "Bug Reports"
+              5)  "SQL"
+              6)  "Charles"
+       	      7)  "Mobile testing"
